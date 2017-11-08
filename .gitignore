@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Omit downloaded MNIST data and tesorboard stats
+*.gz
+tf_logs
