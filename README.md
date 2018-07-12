@@ -1,2 +1,2 @@
 # PythonMLExperiments
-Some Jupyter Notebooks created by me, based on information and code from internet tutorials.
+Random Jupyter notebooks with experiments with Python and Machine Learning
